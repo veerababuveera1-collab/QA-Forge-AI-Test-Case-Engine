@@ -1,6 +1,14 @@
+# Web Interface
 streamlit
+
+# Data Manipulation & Excel Export
 pandas
-numpy
-openai
+openpyxl
+xlsxwriter
+
+# AI Orchestration & LLM
 crewai
-langchain
+langchain-openai
+
+# File Parsing
+python-docx
