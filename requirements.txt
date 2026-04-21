@@ -1,8 +1,7 @@
 streamlit
 pandas
+crewai==0.28.8
+langchain-openai
+python-docx
 openpyxl
 xlsxwriter
-python-docx
-langchain-openai
-crewai==0.28.8
-pydantic>=2.4.2,<3
