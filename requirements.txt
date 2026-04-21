@@ -4,5 +4,5 @@ openpyxl
 xlsxwriter
 python-docx
 langchain-openai
-crewai>=0.28.0,<0.30.0
-pydantic>=2.0.0,<3.0.0
+crewai==0.28.8
+pydantic>=2.4.2,<3
